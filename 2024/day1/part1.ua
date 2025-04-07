@@ -1,4 +1,4 @@
-&fras "input"
+&fras "day1/input"
 
 ⊜(⊜⋕≠@ .⍣°$"_\r")≠@\n.
 ⍜(⍉|≡⍆)

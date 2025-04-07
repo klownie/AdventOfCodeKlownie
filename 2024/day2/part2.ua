@@ -1,5 +1,5 @@
 # Experimental!
-&fras "input"
+&fras "day2/input"
 
 IsSafe ← ≡(↧∨∩₃(=/+⟜⧻)⊃(>₀|<₀|≤₃⌵)↘₋₁-⊸↻₁)
 ⊜(□⊜(⋕)≠@ .⍣°$"_\r")≠@\n.
